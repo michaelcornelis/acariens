@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Stop aux acariens",
+    "description": "",
+    "home_page_url": "https://www.stopauxacariens.com",
+    "feed_url": "https://www.stopauxacariens.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michaël"
+    },
+    "items": [
+    ]
+}
